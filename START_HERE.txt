@@ -1,0 +1,27 @@
+IN A PINCH — V3 / 24 CITIES
+
+27,431 mapped places. City-specific cartographic vector maps.
+V1 and V2 are preserved in their original folders.
+
+QUICK PREVIEW:
+Double-click OPEN_ME.html. Keep the assets folder beside it.
+Use a current browser; maps and discovery require internet access.
+Automatic location works best on HTTPS or localhost.
+
+GITHUB UPLOAD:
+Upload the CONTENTS of this folder, preserving subfolders.
+index.html should appear directly in the repository root.
+Settings > Pages > Deploy from a branch > main > /(root).
+You can also upload the folder as /v3/ to retain older versions.
+
+NO MAP API KEY IS REQUIRED.
+
+Current-location startup, 24 selectable city maps, Wireframe / City modes,
+numbered pins, filters, saved places, walking directions, and Google Maps
+business links are included. Zoom into neighborhoods to discover more venues.
+
+Coverage is not exhaustive. A mapped restaurant or bar does not guarantee
+bathroom access. Unknown access and amenities are labeled conservatively.
+Shared community ratings require the included backend.
+
+README.md includes coverage details, source dates, city totals and maintenance.
